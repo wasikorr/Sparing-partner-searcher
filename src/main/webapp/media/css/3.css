@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.jumbotron {
+    background: rgba(166, 175, 191,0.5);
+}
