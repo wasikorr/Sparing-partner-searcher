@@ -5,4 +5,4 @@ Główne cele to działający back-end, front-end jest mniej istotny.
 
 Oficjalne screen-shoty aplikacji:
 
-![Screenshot](zrzut1.png)
+![Screenshot](src/main/resources/static/screenshots/zrzut1.png)
